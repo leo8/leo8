@@ -1,4 +1,4 @@
 - 👋 Hi there, I'm Léo Dray
 - 👀 I’m interested in Natural Language Processing, Data science, Machine Learning, Social sciences and History.
-- 🌱 I’m currently a student in Digital Humanities at l'Ecole nationale des Chartes.
-- 📫 How to reach me : leoleo8@hotmail.fr
+- 🌱 I was a student in Digital Humanities at l'Ecole nationale des Chartes / EHESS / ENS. I currently undertake another Master's degree in the field of Machine Learning Engineering at Openclassrooms / Ecole Centrale Supélec.
+- 👨‍💻 I am currently working as a data scientist in a consulting company based in Paris. 
